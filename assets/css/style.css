@@ -406,3 +406,7 @@ footer{
 footer p{
     text-align: center;
 }
+/* main */
+main{
+    margin-top: 3rem;
+}
